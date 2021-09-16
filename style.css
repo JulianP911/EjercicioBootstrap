@@ -1,51 +1,61 @@
+/* Banner style */
 #banner {
     background-color: #58493e;
     height: 5rem;
     font-size: 1.1rem;
 }
 
+/* Banner text style */
 #BannerText {
     color: #ebebea;
     font-weight: bold;
 }
 
+/* Left menu style */
 #leftMenu {
     background-color: #ec9d57;
     font-weight: bold;
 }
 
+/* Top menu style */
 #topMenu {
     background-color: #bb9386;
     font-weight: bold;
 }
 
+/* Main content A anb B style */
 .mainContentAB {
     background-color: #f2f2f2;
     font-weight: bold;
     padding: 4.8rem;
 }
 
+/* Photo odd style */
 .photoOdd {
     background-color: #b8717d;
     font-weight: bold;
 }
 
+/* Photo even style */
 .photoEven {
     background-color: #48a0b2;
     font-weight: bold;
 }
 
+/* Main content C style  */
 .mainContentC {
     background-color: #ffffff;
     font-weight: bold;
     padding: 4.8rem;
 }
 
+/* Footer style */
 #footer {
     background-color: #58493e;
     height: 3.5rem;
 }
 
+/* Footer text style */
 #FooterText {
     color: #ebebea;
     font-weight: bold;
